@@ -1,0 +1,8 @@
+D:\Desktop\tiny-datasets\coco2014\images\COCO_train2014_000000000009.jpg
+D:\Desktop\tiny-datasets\coco2014\images\COCO_train2014_000000000030.jpg
+D:\Desktop\tiny-datasets\coco2014\images\COCO_train2014_000000000049.jpg
+D:\Desktop\tiny-datasets\coco2014\images\COCO_train2014_000000000061.jpg
+D:\Desktop\tiny-datasets\coco2014\images\COCO_train2014_000000000064.jpg
+D:\Desktop\tiny-datasets\coco2014\images\COCO_train2014_000000000071.jpg
+D:\Desktop\tiny-datasets\coco2014\images\COCO_train2014_000000000077.jpg
+D:\Desktop\tiny-datasets\coco2014\images\COCO_train2014_000000000078.jpg
